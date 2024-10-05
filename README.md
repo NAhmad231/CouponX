@@ -41,7 +41,7 @@ CouponX stands out for its unique ability to combine real-time trading of vouche
   - <img src="https://expressjs.com/images/expressjs.png" alt="Express.js Logo" width="20"/> Express.js
   
 - **Database**: 
-  - <img src="https://www.mongodb.com/assets/images/global/mdb/favicon.ico" alt="MongoDB Logo" width="20"/> MongoDB (NoSQL for scalability)
+  - <img src="[https://www.mongodb.com/assets/images/global/mdb/favicon.ico](https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg)" alt="MongoDB Logo" width="20"/> MongoDB (NoSQL for scalability)
 
 - **Authentication**: 
   - <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Logo" width="20"/> Firebase for secure user authentication
