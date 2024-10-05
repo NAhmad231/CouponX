@@ -31,14 +31,34 @@ CouponX stands out for its unique ability to combine real-time trading of vouche
 - **API Integration for Deals**: Dynamic offers from multiple sources.
 
 ## ⚙️ Tech Stack
-- **Frontend**: ![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React.js, ![Tailwind CSS Logo](https://tailwindcss.com/_next/static/media/tailwindcss-logo.16c65e3b.svg) Tailwind CSS
-- **Backend**: ![Node.js Logo](https://nodejs.org/static/images/logos/nodejs-new-logo.svg) Node.js, ![Express.js Logo](https://expressjs.com/images/expressjs.png) Express.js
-- **Database**: ![MongoDB Logo](https://www.mongodb.com/assets/images/global/mdb/favicon.ico) MongoDB (NoSQL for scalability)
-- **Authentication**: ![Firebase Logo](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png) Firebase for secure user authentication
-- **APIs**: Integration with third-party e-commerce and deal provider APIs
-- **Real-time Updates**: ![Socket.IO Logo](https://socket.io/images/socketio-logo.svg) Socket.IO for real-time communication
-- **Payment Processing**: ![Stripe Logo](https://stripe.com/img/favicon.png) Stripe API for secure transactions
-- **Deployment**: ![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) Docker, ![AWS Logo](https://d2908q8i9q6qt8.cloudfront.net/1bc10ec42b9c4d59378cf0da1504ee68ff67b804/2020/07/24/AWS-Logo-2016.png) AWS for scalability and cloud hosting
+## ⚙️ Tech Stack
+- **Frontend**: 
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="20"/> React.js 
+  - <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logo.16c65e3b.svg" alt="Tailwind CSS Logo" width="20"/> Tailwind CSS
+  
+- **Backend**: 
+  - <img src="https://nodejs.org/static/images/logos/nodejs-new-logo.svg" alt="Node.js Logo" width="20"/> Node.js 
+  - <img src="https://expressjs.com/images/expressjs.png" alt="Express.js Logo" width="20"/> Express.js
+  
+- **Database**: 
+  - <img src="https://www.mongodb.com/assets/images/global/mdb/favicon.ico" alt="MongoDB Logo" width="20"/> MongoDB (NoSQL for scalability)
+
+- **Authentication**: 
+  - <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="Firebase Logo" width="20"/> Firebase for secure user authentication
+
+- **APIs**: 
+  - Integration with third-party e-commerce and deal provider APIs
+  
+- **Real-time Updates**: 
+  - <img src="https://socket.io/images/socketio-logo.svg" alt="Socket.IO Logo" width="20"/> Socket.IO for real-time communication
+
+- **Payment Processing**: 
+  - <img src="https://stripe.com/img/favicon.png" alt="Stripe Logo" width="20"/> Stripe API for secure transactions
+
+- **Deployment**: 
+  - <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="20"/> Docker 
+  - <img src="https://d2908q8i9q6qt8.cloudfront.net/1bc10ec42b9c4d59378cf0da1504ee68ff67b804/2020/07/24/AWS-Logo-2016.png" alt="AWS Logo" width="20"/> AWS for scalability and cloud hosting
+
 
 ## 📋 Methodology
 1. **Planning**:
