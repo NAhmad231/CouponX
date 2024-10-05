@@ -57,7 +57,7 @@ CouponX stands out for its unique ability to combine real-time trading of vouche
 
 - **Deployment**: 
   - <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="20"/> Docker 
-  - <img src="https://d2908q8i9q6qt8.cloudfront.net/1bc10ec42b9c4d59378cf0da1504ee68ff67b804/2020/07/24/AWS-Logo-2016.png" alt="AWS Logo" width="20"/> AWS for scalability and cloud hosting
+  - <img src="[https://d2908q8i9q6qt8.cloudfront.net/1bc10ec42b9c4d59378cf0da1504ee68ff67b804/2020/07/24/AWS-Logo-2016.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FAmazon_Web_Services&psig=AOvVaw3mLqxiZiNm71j7Ie2I4K_t&ust=1728238399663000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiInbvw6_eIAxXJamwGHbk3K94QjRx6BAgAEBg)" alt="AWS Logo" width="20"/> AWS for scalability and cloud hosting
 
 
 ## 📋 Methodology
